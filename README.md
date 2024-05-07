@@ -1,3 +1,3 @@
 # Internet Speed Test
 Simple method to find out our internet speed created with Html Css and Javascript
-![Screenshot](https://github.com/Rezamns/Internet-speed-test/assets/57560653/db5ac838-ce60-434d-9b0e-5069ccaf75a4)
+![Screenshot 2024-05-08 020035](https://github.com/Rezamns/Internet-speed-test-with-javascript/assets/57560653/1e0bd7c6-aa32-4247-829e-94f66d35d036)
